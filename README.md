@@ -1,7 +1,6 @@
 # **Python Foundations**  
-Learn Deeply. Build Wisely.
 
-Welcome to **Python Foundations**, a first‑principles learning track designed to help you understand Python at a conceptual and practical level. This repository supports the video lessons published on the **Grounded Learning** YouTube channel.
+**Python Foundations**, a first‑principles learning track designed to help you understand Python at a conceptual and practical level. 
 
 ---
 
@@ -21,7 +20,6 @@ Welcome to **Python Foundations**, a first‑principles learning track designed 
 ## 📁 **Repository Structure**
 - **notebooks/** — Jupyter notebooks for each lesson  
 - **code/** — Python scripts with examples  
-- **slides/** — PDF exports of teaching slides  
 - **excalidraw/** — whiteboard diagrams  
 - **assignments/** — practice exercises  
 - **solutions/** — solutions to assignments  
