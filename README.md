@@ -39,7 +39,7 @@ Links will be added as videos are published.
 Clone the repository:
 
 ```
-git clone https://github.com/GroundedLearning/python-foundations](https://github.com/groundedlearn-sys/python-foundations
+[git clone https://github.com/GroundedLearning/python-foundations](https://github.com/groundedlearn-sys/python-foundations](https://github.com/groundedlearn-sys/python-foundations.git)
 ```
 
 Install dependencies:
